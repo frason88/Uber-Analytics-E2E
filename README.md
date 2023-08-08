@@ -1,7 +1,8 @@
 # Uber-Analytics-E2E
 
 
-![](image_url)
+![](https://github.com/frason88/Uber-Analytics-E2E/blob/main/architecture.jpg)
+
 
 Dataset: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
