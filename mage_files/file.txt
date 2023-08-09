@@ -1,1 +1,1 @@
-
+Mage Files used to connect data pipeline for data connection ---> Bigquery ---> Sql Transformation ------> Looker Sheet Display 
