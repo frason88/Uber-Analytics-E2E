@@ -6,6 +6,19 @@
 
 Dataset: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
+Data Pipeine Tool used in project - https://www.mage.ai/
+
+## Technology Used:
+Programming Language - Python
+
+## Services & platform used:
+Google Cloud Platform
+Google Storage
+Compute Instance
+BigQuery
+Looker Studio
+
+
 The dataset link provid points to Uber data (uber_data.csv) rather than TLC trip record data. The TLC trip record data is specific to New York City's yellow and green taxi trip records.
 Nonetheless, the TLC trip record data is a valuable dataset containing information about taxi trips in New York City, and it can be used for various data analysis and insights. 
 The data dictionary you mentioned (data_dictionary_trip_records_yellow.pdf) should provide a detailed explanation of the fields present in the TLC trip record dataset.
